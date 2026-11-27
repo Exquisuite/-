@@ -1,3 +1,4 @@
 eohyeong-android/Eohyeong-v23-1.0.2.apk filter=lfs diff=lfs merge=lfs -text
 eohyeong-android/Eohyeong-v24-1.0.3.apk filter=lfs diff=lfs merge=lfs -text
 eohyeong-android/Eohyeong-1.0.4.apk filter=lfs diff=lfs merge=lfs -text
+eohyeong-android/Eohyeong-1.0.5.apk filter=lfs diff=lfs merge=lfs -text
