@@ -1,15 +1,15 @@
-# 어형 · 헝가리어 분석기 1.0.2
+# 어형 · 헝가리어 분석기
 
 Android 10 이상용입니다.
 
-[APK 다운로드](https://media.githubusercontent.com/media/Exquisuite/-/fcc12a1b974c5d911b13e41051447cfc1e9fc7f6/eohyeong-android/Eohyeong-v23-1.0.2.apk) · 119 MB
+[APK 1.0.3 다운로드](https://media.githubusercontent.com/media/Exquisuite/-/2d699b6756e1377a6049c3367ca526e325864481/eohyeong-android/Eohyeong-v24-1.0.3.apk) · 119 MB
 
-다운로드가 어려우면 분할 파일 [001](./Eohyeong-1.0.2-part.7z.001?raw=true), [002](./Eohyeong-1.0.2-part.7z.002?raw=true), [003](./Eohyeong-1.0.2-part.7z.003?raw=true), [004](./Eohyeong-1.0.2-part.7z.004?raw=true)를 같은 폴더에 저장하고 001을 열어 압축을 푸세요.
+웹 버전 24를 기반으로 합니다. 입력할 때 화면 하단에 스크롤 여백을 추가하고, WebGPU를 지원하는 환경에서는 기기 AI 번역을 워커에서 실행합니다. 기기 AI를 처음 쓰려면 모델을 내려받아야 합니다.
 
-APK SHA-256
+APK 1.0.3 SHA-256
 
 ```text
-17ef7450ce23a76cb3ff9c3a7607a3e37679b58fcf08743433ab23b92931f566
+0a27e3202222a7411ac6c99d5a9e85c234f1d3f72ce7093afd7a1d561e7acda1
 ```
 
-[원본 웹사이트](https://magyar-korean-reading-lab.anhojun1020.chatgpt.site)
+[이전 APK 1.0.2 다운로드](https://media.githubusercontent.com/media/Exquisuite/-/fcc12a1b974c5d911b13e41051447cfc1e9fc7f6/eohyeong-android/Eohyeong-v23-1.0.2.apk) · [웹사이트](https://magyar-korean-reading-lab.anhojun1020.chatgpt.site)
